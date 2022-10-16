@@ -1,0 +1,57 @@
+
+/* ........................................ */
+.login{
+    margin-left: 180px;
+    display: flex;
+    justify-content: center;
+  
+}
+
+.nav-item{
+    font-weight: bold;
+    color: black;
+}
+
+.nav-img-style img{
+    width: 130px;
+    font-weight: bold;
+}
+/* ......................................... */
+
+
+
+/* ......................................... */
+.section1{
+    background-image: url(./Background.jpg);
+    height: 250px;
+    border-radius: 50px;
+}
+/* ......................................... */
+
+/* ......................................... */
+.section2{
+  margin-top: -150px;
+ 
+}
+.card{
+    padding: 50px;
+    border-radius: 50px;
+}
+.green-style{
+    color:rgb(124, 214, 124);
+}
+.underline-style{
+    text-decoration: underline;
+}
+.btn-style{
+    background-color: black;
+   color: aliceblue;
+   padding: 10px;
+  width: 160px;
+}
+/* ......................................... */
+
+
+
+
+

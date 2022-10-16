@@ -1,4 +1,4 @@
-<h5>Nabver </h5>
-<h5>BAckgroung-image </h5>
-<h5>2 site card </h5>
-<h5>simple slider and details </h5>
+<p>Nabver</p>
+<p>BAckgroung-image </p>
+<p>2 site card </p>
+<p>simple slider and details </p>
